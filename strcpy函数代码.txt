@@ -4,3 +4,4 @@ int len=strlen(src);
 int *p=(int*)malloc(len+1);
 return p;
 }
+/**本地编辑**/
